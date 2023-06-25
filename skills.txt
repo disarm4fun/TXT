@@ -1,0 +1,2 @@
+Skills to be learnde on the course - terminal,git,basic theory,client-server architecture,API and Posatman,Removing and readnig logs from an external server,Charles,Devtools,VPN,mobile testing,iOS and Android,ADB,Settings proxy and vpn for iOS and Android,SQL,Jmeter,SDLS,techinical test-desing,Python
+
