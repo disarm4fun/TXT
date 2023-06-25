@@ -1,0 +1,7 @@
+Surname - Tsimoshevich
+Name - Dzmitry
+Patronymic - Alexsandrovich
+Age - 26
+Pets - 0
+Desired Salary - 500$
+
